@@ -1,0 +1,8 @@
+{
+  "AEMEATH_ENERGY_COUNT.title": "에너지",
+  "AEMEATH_ENERGY_COUNT.description": "현재 에너지({singleEnergyIcon}) 수치입니다. 카드를 사용하려면 {singleEnergyIcon}가 필요하며, 좌측 상단에 표시됩니다.",
+  "AEMEATH_RESONANCE_COUNT.title": "공명률",
+  "AEMEATH_RESONANCE_COUNT.description": "현재 공명률({singleStarIcon}) 수치입니다. 일부 에이메스 카드를 사용하려면 {singleStarIcon}가 필요합니다.",
+  "AEMEATH_SYNC_COUNT.title": "동기화율",
+  "AEMEATH_SYNC_COUNT.description": "현재 동기화율({singleSyncIcon}) 수치입니다. 일부 에이메스 카드를 사용하려면 {singleSyncIcon}가 필요합니다."
+}
