@@ -27,5 +27,8 @@
   "AEMEATH.unlockText": "Play a single run with [pink]{Prerequisite}[/pink] to unlock this character.",
   "AEMEATH.notEnoughResonance": "Not enough Resonance.",
   "AEMEATH.hoverResonanceTitle": "Resonance",
-  "AEMEATH.hoverSyncTitle": "Sync Rate"
+  "AEMEATH.hoverResonanceDescription": "Your current Resonance ([img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img]). Some Aemeath cards may require [img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img] to play.",
+  "AEMEATH.hoverSyncTitle": "Sync Rate",
+  "AEMEATH.hoverSyncDescription": "Your current Sync Rate ([img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]). Some Aemeath cards may require [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img] to play.",
+  "AEMEATH.hoverEnergyDescription": "Your current Energy ([img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]). Cards require [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img] to play, and their cost is shown in the upper-left corner."
 }
