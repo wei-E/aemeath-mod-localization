@@ -22,7 +22,7 @@
   "AEMEATH_SUPER_LEOPARD_BLIZZARD_RELIC.description": "전투 시작 시, 에너지를 3 추가로 얻습니다. 이후의 턴에는 에너지가 보존되며 턴 시작 시 에너지를 1 잃습니다.",
   "AEMEATH_TUNNELER_FIGURE_RELIC.title": "엑소스트라이더 피규어",
   "AEMEATH_TUNNELER_FIGURE_RELIC.flavor": "에이메스의 전용 유물입니다.",
-  "AEMEATH_TUNNELER_FIGURE_RELIC.description": "적이 자동 폭발을 발동할 때마다, 에너지를 1 얻습니다.",
+  "AEMEATH_TUNNELER_FIGURE_RELIC.description": "융합 폭발 한도가 5 증가합니다. 자동 폭발이 발동할 때마다, [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]를 1 얻습니다.",
   "AEMEATH_TASK_ANIM_TEST_RELIC.title": "임무 애니메이션 테스터",
   "AEMEATH_TASK_ANIM_TEST_RELIC.flavor": "암호화된 임무 텍스트 해독을 테스트하는 데 사용되는 유물입니다.",
   "AEMEATH_TASK_ANIM_TEST_RELIC.description": "이 유물을 조사하여 현재 임무를 읽습니다.",

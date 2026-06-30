@@ -168,7 +168,7 @@
   "AEMEATH_FINALE.description": "피해를 {Damage:diff()} 줍니다. 이 카드로 적을 처치하면, 덱에서 공격 카드를 1장 선택합니다. 이번 게임 동안 그 카드의 기본 피해량이 영구적으로 1 증가합니다.",
   "AEMEATH_FINALE.selectionScreenPrompt": "영구적으로 기본 피해량을 +1 증가시킬 공격 카드를 선택하세요",
   "AEMEATH_DRIVING_LESSON.title": "운전 교습",
-  "AEMEATH_DRIVING_LESSON.description": "[gold]강림[/gold].\n형태를 전환하거나 이 카드가 보존될 때마다, 이번 전투 동안 이 카드의 비용이 1 감소합니다.",
+  "AEMEATH_DRIVING_LESSON.description": "[gold]강림[/gold].\n형태를 전환하거나 이 카드가 보존될 때마다, 이번 전투 동안 이 카드의 비용이 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]-1 감소합니다.",
   "AEMEATH_COME_HERE_LITTLE_ONE.title": "이리 오렴, 아이야.",
   "AEMEATH_COME_HERE_LITTLE_ONE.description": "3[img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]를 소모합니다. 모든 플레이어가 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]를 얻고 카드를 2장 뽑습니다. 무작위 적에게 부조화 수치를 2씩 3번 부여합니다.{IfUpgraded:show: 선천성.|}",
   "AEMEATH_HIJACK.title": "하이잭",
